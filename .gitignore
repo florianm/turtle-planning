@@ -1,6 +1,9 @@
 # R files
 *.Rproj
 
+# Compiled HTML docs in /doc
+doc/*.html
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
